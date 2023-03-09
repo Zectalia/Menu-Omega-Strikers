@@ -24,18 +24,13 @@ public class GameManager : MonoBehaviour
         {
             ChoiceMod = 1;
             BoutonB.SetActive(false);
-            BoutonA.SetActive(true);
         }
 
         if (BoutonB.activeInHierarchy)
         {
             ChoiceMod = 0;
             BoutonA.SetActive(false);
-            BoutonB.SetActive(true);
         }
-
-
-
 
         if (ChoiceMod == 0)
         {
