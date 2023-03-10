@@ -758,7 +758,7 @@ VideoPlayer:
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
-  - 1
+  - 0.05
   m_Url: 
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
@@ -781,7 +781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd95341edbfbad84c9fcafa879ffcb6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeRemaining: 54
+  timeRemaining: 80
   Coffre1: {fileID: 1992431786}
   Bouton1: {fileID: 0}
 --- !u!1 &1880903800
