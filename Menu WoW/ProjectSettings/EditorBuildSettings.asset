@@ -17,13 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Launch Trailer.unity
     guid: cef895b21c3d4af44be929076c587985
-  - enabled: 1
-    path: Assets/Scenes/Asher Teaser.unity
-    guid: d7b5d2a30a502be4dbceb23f9be2e5df
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/AI.MI Teaser.unity
     guid: 7a6f442dcad35944391db682a20d18d3
   - enabled: 1
     path: Assets/Scenes/Boutique Indisponible.unity
     guid: 174f1e53a9dd1364b8848e4f4ed9c97a
+  - enabled: 1
+    path: Assets/Scenes/Asher Teaser.unity
+    guid: a84f56386fc2b7549b5fe469c97c33a4
   m_configObjects: {}
